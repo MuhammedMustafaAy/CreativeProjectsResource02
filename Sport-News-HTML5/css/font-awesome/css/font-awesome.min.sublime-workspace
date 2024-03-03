@@ -1,0 +1,1328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/404.html",
+			"settings":
+			{
+				"buffer_size": 9235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/about.html",
+			"settings":
+			{
+				"buffer_size": 15575,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/accordion.html",
+			"settings":
+			{
+				"buffer_size": 14312,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/alerts.html",
+			"settings":
+			{
+				"buffer_size": 11524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/blockquote.html",
+			"settings":
+			{
+				"buffer_size": 10422,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/blog.html",
+			"settings":
+			{
+				"buffer_size": 14583,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/blog-post.html",
+			"settings":
+			{
+				"buffer_size": 16124,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/buttons.html",
+			"settings":
+			{
+				"buffer_size": 10873,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/contact.html",
+			"settings":
+			{
+				"buffer_size": 11002,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n     \n     //connect to server\n    $link=mysqli_connect('localhost' , 'root' , '');\n\n    //select database\n    mysqli_select_db($link , 'db2023');\n\n     //database queries(sorgular): insert\n    //mysqli_query($link,\"INSERT INTO Student VALUES('Ahmet','123')\");\n\n    //update\n    //mysqli_query($link,\"UPDATE Student SET name='Meryem' WHERE name='Yusuf' \");\n\n    // delete\n   // mysqli_query($link, \"DELETE FROM Student WHERE name='Meryem' \");\n\n    // $RES=mysqli_query($link, \" SELECT * FROM Student WHERE name='Ahmet' \");\n\n  /*  $RES=mysqli_query($link, \" SELECT * FROM Student\");\n\n    while($RES1=mysqli_fetch_array($RES)){\n    \n    echo $RES1['Name'];\n    echo $RES1['Password'];\n    echo \"<br>\";\n\n    }*/\n   \n\n?>\n\n<!-- <!DOCTYPE html>\n<html>\n<head>\n\t<meta charset=\"utf-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\t<title></title>\n</head>\n<body>\n\n\t<form>\n\t\t<label for=\"email\">Your Email:</label>\n\t\t<input type=\"email\" name=\"email\" required>\n\t\t<br>\n\n\t\t<label for=\"password\">Your Password:</label>\n\t\t<input type=\"password\" name=\"password\" required>\n\t\t<br>\n\n\t\t<label for=\"x\">Your Opinion:</label><br>\n\t\t<textarea name=\"x\" rows=\"10\" cols=\"50\"></textarea><br>\n        \n        <label for=\"tel\">Your Phone Number:</label>\n        <input type=\"tel\" name=\"tel\">\n        <br>\n\n        <label for=\"date\">Date:</label>\n        <input type=\"date\" name=\"date\">\n        <br>\n\n        <label for=\"search\">Search</label>\n        <input type=\"search\" name=\"search\">\n        <br>\n\n        <input type=\"checkbox\" name=\"bayan\"><label for=\"bayan\">Bayan</label><br>\n        <input type=\"checkbox\" name=\"bay\"><label for=\"bay\">Bay</label><br>\n\n        <input type=\"radio\" name=\"gender\"><label for=\"gender\">BAYAN</label><br>\n        <input type=\"radio\" name=\"gender\"><label for=\"gender\">BAY</label><br>\n\n        <label for=\"country\">In which country do you live?</label><br>\n        <select name=\"country\">\n        \t<option value=\"france\">France</option>\n        \t<option value=\"spain\">Spain</option>\n        \t<option value=\"italy\">Italy</option>\n        \t<option value=\"canada\">Canada</option>\n        </select>\n\t</form>\n\n</body>\n</html> -->",
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/db1.php",
+			"file_size": 2215,
+			"file_write_time": 133538713375278059,
+			"settings":
+			{
+				"buffer_size": 2156,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJQAAAAAAAAAlAAAAAAAAAABAAAAMw",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAJQAAAAAAAAAlQAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJQAAAAAAAAAlAAAAAAAAAABAAAANA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAAJQAAAAAAAAAlQAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/faq.html",
+			"settings":
+			{
+				"buffer_size": 11883,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/feature-icons.html",
+			"settings":
+			{
+				"buffer_size": 49626,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/form.css",
+			"settings":
+			{
+				"buffer_size": 1386,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/full-width.html",
+			"settings":
+			{
+				"buffer_size": 14972,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/gallery.html",
+			"settings":
+			{
+				"buffer_size": 13293,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/icon-box.html",
+			"settings":
+			{
+				"buffer_size": 13890,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/index-2.html",
+			"settings":
+			{
+				"buffer_size": 28442,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAAM5IAAAAAAAAzkgAAAAAAAABAAAAMw",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADPSAAAAAAAAM9IAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAM5IAAAAAAAAz0gAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADOSAAAAAAAAM5IAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/index-2.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 5167,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"BAAAAAAAAAAAAAAAAAAAAAAAAAAvFAAAewoJImF1dG9fY29tcGxldGUiOgoJewoJCSJzZWxlY3RlZF9pdGVtcyI6CgkJWwoJCV0KCX0sCgkiYnVmZmVycyI6CglbCgldLAoJImJ1aWxkX3N5c3RlbSI6ICIiLAoJImJ1aWxkX3N5c3RlbV9jaG9pY2VzIjoKCVsKCV0sCgkiYnVpbGRfdmFyaW50IjogIiIsCgkiY29tbWFuZF9wYWxldHRlIjoKCXsKCQkiaGVpZ2h0IjogMC4wLAoJCSJsYXN0X2ZpbHRlciI6ICIiLAoJCSJzZWxlY3RlZF9pdGVtcyI6CgkJWwoJCV0sCgkJIndpZHRoIjogMC4wCgl9LAoJImNvbnNvbGUiOgoJewoJCSJoZWlnaHQiOiAwLjAsCgkJImhpc3RvcnkiOgoJCVsKCQldCgl9LAoJImRpc3RyYWN0aW9uX2ZyZWUiOgoJewoJCSJtZW51X3Zpc2libGUiOiB0cnVlLAoJCSJzaG93X21pbmltYXAiOiBmYWxzZSwKCQkic2hvd19vcGVuX2ZpbGVzIjogZmFsc2UsCgkJInNob3dfdGFicyI6IGZhbHNlLAoJCSJzaWRlX2Jhcl92aXNpYmxlIjogZmFsc2UsCgkJInN0YXR1c19iYXJfdmlzaWJsZSI6IGZhbHNlCgl9LAoJImZpbGVfaGlzdG9yeSI6CglbCgkJIi9DL1VzZXJzL011aGFtbWVkL0Rlc2t0b3AvTXVoYW1tZWQgTXVzdGFmYSBBWV8wMzA3MjAwNzhfQ29kZS9TcG9ydC1OZXdzLVJlc3BvbnNpdmUtSFRNTDUtVGVtcGxhdGUvdGFicy5odG1sIiwKCQkiL0MvVXNlcnMvTXVoYW1tZWQvRGVza3RvcC9NdWhhbW1lZCBNdXN0YWZhIEFZXzAzMDcyMDA3OF9Db2RlL1Nwb3J0LU5ld3MtUmVzcG9uc2l2ZS1IVE1MNS1UZW1wbGF0ZS9zb29uLmh0bWwiLAoJCSIvQy9Vc2Vycy9NdWhhbW1lZC9EZXNrdG9wL011aGFtbWVkIE11c3RhZmEgQVlfMDMwNzIwMDc4X0NvZGUvU3BvcnQtTmV3cy1SZXNwb25zaXZlLUhUTUw1LVRlbXBsYXRlL3Nwb3J0Lmh0bWwiLAoJCSIvQy9Vc2Vycy9NdWhhbW1lZC9EZXNrdG9wL011aGFtbWVkIE11c3RhZmEgQVlfMDMwNzIwMDc4X0NvZGUvU3BvcnQtTmV3cy1SZXNwb25zaXZlLUhUTUw1LVRlbXBsYXRlL3NsaWRlcnMuaHRtbCIsCgkJIi9DL1VzZXJzL011aGFtbWVkL0Rlc2t0b3AvTXVoYW1tZWQgTXVzdGFmYSBBWV8wMzA3MjAwNzhfQ29kZS9TcG9ydC1OZXdzLVJlc3BvbnNpdmUtSFRNTDUtVGVtcGxhdGUvcmVnaXN0ZXIxLnBocCIsCgkJIi9DL1VzZXJzL011aGFtbWVkL0Rlc2t0b3AvTXVoYW1tZWQgTXVzdGFmYSBBWV8wMzA3MjAwNzhfQ29kZS9TcG9ydC1OZXdzLVJlc3BvbnNpdmUtSFRNTDUtVGVtcGxhdGUvcHJpY2UtdGFibGUuaHRtbCIsCgkJIi9DL1VzZXJzL011aGFtbWVkL0Rlc2t0b3AvTXVoYW1tZWQgTXVzdGFmYSBBWV8wMzA3MjAwNzhfQ29kZS9TcG9ydC1OZXdzLVJlc3BvbnNpdmUtSFRNTDUtVGVtcGxhdGUvbW9kdWxlcy5odG1sIiwKCQkiL0MvVXNlcnMvTXVoYW1tZWQvRGVza3RvcC9NdWhhbW1lZCBNdXN0YWZhIEFZXzAzMDcyMDA3OF9Db2RlL1Nwb3J0LU5ld3MtUmVzcG9uc2l2ZS1IVE1MNS1UZW1wbGF0ZS9sb2dpbi5waHAiLAoJCSIvQy9Vc2Vycy9NdWhhbW1lZC9EZXNrdG9wL011aGFtbWVkIE11c3RhZmEgQVlfMDMwNzIwMDc4X0NvZGUvU3BvcnQtTmV3cy1SZXNwb25zaXZlLUhUTUw1LVRlbXBsYXRlL2luZGV4LTIuaHRtbCIsCgkJIi9DL1VzZXJzL011aGFtbWVkL0Rlc2t0b3AvTXVoYW1tZWQgTXVzdGFmYSBBWV8wMzA3MjAwNzhfQ29kZS9TcG9ydC1OZXdzLVJlc3BvbnNpdmUtSFRNTDUtVGVtcGxhdGUvaW5kZXguaHRtbCIsCgkJIi9DL1VzZXJzL011aGFtbWVkL0Rlc2t0b3AvTXVoYW1tZWQgTXVzdGFmYSBBWV8wMzA3MjAwNzhfQ29kZS9TcG9ydC1OZXdzLVJlc3BvbnNpdmUtSFRNTDUtVGVtcGxhdGUvaWNvbi1ib3guaHRtbCIsCgkJIi9DL1VzZXJzL011aGFtbWVkL0Rlc2t0b3AvTXVoYW1tZWQgTXVzdGFmYSBBWV8wMzA3MjAwNzhfQ29kZS9TcG9ydC1OZXdzLVJlc3BvbnNpdmUtSFRNTDUtVGVtcGxhdGUvZ2FsbGVyeS5odG1sIiwKCQkiL0MvVXNlcnMvTXVoYW1tZWQvRGVza3RvcC9NdWhhbW1lZCBNdXN0YWZhIEFZXzAzMDcyMDA3OF9Db2RlL1Nwb3J0LU5ld3MtUmVzcG9uc2l2ZS1IVE1MNS1UZW1wbGF0ZS9mdWxsLXdpZHRoLmh0bWwiLAoJCSIvQy9Vc2Vycy9NdWhhbW1lZC9EZXNrdG9wL011aGFtbWVkIE11c3RhZmEgQVlfMDMwNzIwMDc4X0NvZGUvU3BvcnQtTmV3cy1SZXNwb25zaXZlLUhUTUw1LVRlbXBsYXRlL2Zvcm0uY3NzIiwKCQkiL0MvVXNlcnMvTXVoYW1tZWQvRGVza3RvcC9NdWhhbW1lZCBNdXN0YWZhIEFZXzAzMDcyMDA3OF9Db2RlL1Nwb3J0LU5ld3MtUmVzcG9uc2l2ZS1IVE1MNS1UZW1wbGF0ZS9mZWF0dXJlLWljb25zLmh0bWwiLAoJCSIvQy9Vc2Vycy9NdWhhbW1lZC9EZXNrdG9wL011aGFtbWVkIE11c3RhZmEgQVlfMDMwNzIwMDc4X0NvZGUvU3BvcnQtTmV3cy1SZXNwb25zaXZlLUhUTUw1LVRlbXBsYXRlL2ZhcS5odG1sIiwKCQkiL0MvVXNlcnMvTXVoYW1tZWQvRGVza3RvcC9NdWhhbW1lZCBNdXN0YWZhIEFZXzAzMDcyMDA3OF9Db2RlL1Nwb3J0LU5ld3MtUmVzcG9uc2l2ZS1IVE1MNS1UZW1wbGF0ZS9kYjEucGhwIiwKCQkiL0MvVXNlcnMvTXVoYW1tZWQvRGVza3RvcC9NdWhhbW1lZCBNdXN0YWZhIEFZXzAzMDcyMDA3OF9Db2RlL1Nwb3J0LU5ld3MtUmVzcG9uc2l2ZS1IVE1MNS1UZW1wbGF0ZS9jb250YWN0Lmh0bWwiLAoJCSIvQy9Vc2Vycy9NdWhhbW1lZC9EZXNrdG9wL011aGFtbWVkIE11c3RhZmEgQVlfMDMwNzIwMDc4X0NvZGUvU3BvcnQtTmV3cy1SZXNwb25zaXZlLUhUTUw1LVRlbXBsYXRlL2Jsb2ctcG9zdC5odG1sIiwKCQkiL0MvVXNlcnMvTXVoYW1tZWQvRGVza3RvcC9NdWhhbW1lZCBNdXN0YWZhIEFZXzAzMDcyMDA3OF9Db2RlL1Nwb3J0LU5ld3MtUmVzcG9uc2l2ZS1IVE1MNS1UZW1wbGF0ZS9idXR0b25zLmh0bWwiLAoJCSIvQy9Vc2Vycy9NdWhhbW1lZC9EZXNrdG9wL011aGFtbWVkIE11c3RhZmEgQVlfMDMwNzIwMDc4X0NvZGUvU3BvcnQtTmV3cy1SZXNwb25zaXZlLUhUTUw1LVRlbXBsYXRlL2Jsb2cuaHRtbCIsCgkJIi9DL1VzZXJzL011aGFtbWVkL0Rlc2t0b3AvTXVoYW1tZWQgTXVzdGFmYSBBWV8wMzA3MjAwNzhfQ29kZS9TcG9ydC1OZXdzLVJlc3BvbnNpdmUtSFRNTDUtVGVtcGxhdGUvYmxvY2txdW90ZS5odG1sIiwKCQkiL0MvVXNlcnMvTXVoYW1tZWQvRGVza3RvcC9NdWhhbW1lZCBNdXN0YWZhIEFZXzAzMDcyMDA3OF9Db2RlL1Nwb3J0LU5ld3MtUmVzcG9uc2l2ZS1IVE1MNS1UZW1wbGF0ZS9hbGVydHMuaHRtbCIsCgkJIi9DL1VzZXJzL011aGFtbWVkL0Rlc2t0b3AvTXVoYW1tZWQgTXVzdGFmYSBBWV8wMzA3MjAwNzhfQ29kZS9TcG9ydC1OZXdzLVJlc3BvbnNpdmUtSFRNTDUtVGVtcGxhdGUvNDA0Lmh0bWwiLAoJCSIvQy9Vc2Vycy9NdWhhbW1lZC9EZXNrdG9wL011aGFtbWVkIE11c3RhZmEgQVlfMDMwNzIwMDc4X0NvZGUvU3BvcnQtTmV3cy1SZXNwb25zaXZlLUhUTUw1LVRlbXBsYXRlL2FjY29yZGlvbi5odG1sIiwKCQkiL0MvVXNlcnMvTXVoYW1tZWQvRGVza3RvcC9NdWhhbW1lZCBNdXN0YWZhIEFZXzAzMDcyMDA3OF9Db2RlL1Nwb3J0LU5ld3MtUmVzcG9uc2l2ZS1IVE1MNS1UZW1wbGF0ZS9hYm91dC5odG1sIiwKCQkiL0MvVXNlcnMvTXVoYW1tZWQvRGVza3RvcC9NdWhhbW1lZCBNdXN0YWZhIEFZXzAzMDcyMDA3OF9Db2RlL1Nwb3J0LU5ld3MtUmVzcG9uc2l2ZS1IVE1MNS1UZW1wbGF0ZS90YWdsaW5lLWJveGVzLmh0bWwiLAoJCSIvQy9Vc2Vycy9NdWhhbW1lZC9EZXNrdG9wL2Nocm9tZS5zdWJsaW1lIgoJXSwKCSJmaW5kIjoKCXsKCQkiaGVpZ2h0IjogMzkuMAoJfSwKCSJmaW5kX2luX2ZpbGVzIjoKCXsKCQkiaGVpZ2h0IjogMC4wLAoJCSJ3aGVyZV9oaXN0b3J5IjoKCQlbCgkJXQoJfSwKCSJmaW5kX3N0YXRlIjoKCXsKCQkiY2FzZV9zZW5zaXRpdmUiOiBmYWxzZSwKCQkiZmluZF9oaXN0b3J5IjoKCQlbCgkJXSwKCQkiaGlnaGxpZ2h0IjogdHJ1ZSwKCQkiaW5fc2VsZWN0aW9uIjogZmFsc2UsCgkJInByZXNlcnZlX2Nhc2UiOiBmYWxzZSwKCQkicmVnZXgiOiBmYWxzZSwKCQkicmVwbGFjZV9oaXN0b3J5IjoKCQlbCgkJXSwKCQkicmV2ZXJzZSI6IGZhbHNlLAoJCSJzY3JvbGxiYXJfaGlnaGxpZ2h0cyI6IHRydWUsCgkJInNob3dfY29udGV4dCI6IHRydWUsCgkJInVzZV9idWZmZXIyIjogdHJ1ZSwKCQkidXNlX2dpdGlnbm9yZSI6IHRydWUsCgkJIndob2xlX3dvcmQiOiBmYWxzZSwKCQkid3JhcCI6IHRydWUKCX0sCgkiZ3JvdXBzIjoKCVsKCQl7CgkJCSJzaGVldHMiOgoJCQlbCgkJCV0KCQl9CgldLAoJImluY3JlbWVudGFsX2ZpbmQiOgoJewoJCSJoZWlnaHQiOiAyNy4wCgl9LAoJImlucHV0IjoKCXsKCQkiaGVpZ2h0IjogMC4wCgl9LAoJImxheW91dCI6Cgl7CgkJImNlbGxzIjoKCQlbCgkJCVsKCQkJCTAsCgkJCQkwLAoJCQkJMSwKCQkJCTEKCQkJXQoJCV0sCgkJImNvbHMiOgoJCVsKCQkJMC4wLAoJCQkxLjAKCQldLAoJCSJyb3dzIjoKCQlbCgkJCTAuMCwKCQkJMS4wCgkJXQoJfSwKCSJtZW51X3Zpc2libGUiOiB0cnVlLAoJIm91dHB1dC5maW5kX3Jlc3VsdHMiOgoJewoJCSJoZWlnaHQiOiAwLjAKCX0sCgkicGlubmVkX2J1aWxkX3N5c3RlbSI6ICIiLAoJInByb2plY3QiOiAiaW5kZXgtMi5zdWJsaW1lLXByb2plY3QiLAoJInJlcGxhY2UiOgoJewoJCSJoZWlnaHQiOiA1MC4wCgl9LAoJInNhdmVfYWxsX29uX2J1aWxkIjogdHJ1ZSwKCSJzZWxlY3RfZmlsZSI6Cgl7CgkJImhlaWdodCI6IDAuMCwKCQkibGFzdF9maWx0ZXIiOiAiIiwKCQkic2VsZWN0ZWRfaXRlbXMiOgoJCVsKCQldLAoJCSJ3aWR0aCI6IDAuMAoJfSwKCSJzZWxlY3RfcHJvamVjdCI6Cgl7CgkJImhlaWdodCI6IDAuMCwKCQkibGFzdF9maWx0ZXIiOiAiIiwKCQkic2VsZWN0ZWRfaXRlbXMiOgoJCVsKCQldLAoJCSJ3aWR0aCI6IDAuMAoJfSwKCSJzZWxlY3Rfc3ltYm9sIjoKCXsKCQkiaGVpZ2h0IjogMC4wLAoJCSJsYXN0X2ZpbHRlciI6ICIiLAoJCSJzZWxlY3RlZF9pdGVtcyI6CgkJWwoJCV0sCgkJIndpZHRoIjogMC4wCgl9LAoJInNlbGVjdGVkX2dyb3VwIjogMCwKCSJzZXR0aW5ncyI6Cgl7Cgl9LAoJInNob3dfbWluaW1hcCI6IHRydWUsCgkic2hvd19vcGVuX2ZpbGVzIjogZmFsc2UsCgkic2hvd190YWJzIjogdHJ1ZSwKCSJzaWRlX2Jhcl92aXNpYmxlIjogdHJ1ZSwKCSJzaWRlX2Jhcl93aWR0aCI6IDE1MC4wLAoJInN0YXR1c19iYXJfdmlzaWJsZSI6IHRydWUsCgkidGVtcGxhdGVfc2V0dGluZ3MiOgoJewoJfQp9CgAAAAAAAAAALxQAAAAAAAAAAAAAAAAAAAAAAAAvFAAAAAAAAAAAAAAAAAAAAAAAAC8UAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/login.php",
+			"settings":
+			{
+				"buffer_size": 1163,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/modules.html",
+			"settings":
+			{
+				"buffer_size": 24924,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/price-table.html",
+			"settings":
+			{
+				"buffer_size": 11230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/register1.php",
+			"settings":
+			{
+				"buffer_size": 1472,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/sliders.html",
+			"settings":
+			{
+				"buffer_size": 12820,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/soon.html",
+			"settings":
+			{
+				"buffer_size": 10547,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/sport.html",
+			"settings":
+			{
+				"buffer_size": 26030,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/tabs.html",
+			"settings":
+			{
+				"buffer_size": 17990,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/tagline-boxes.html",
+			"settings":
+			{
+				"buffer_size": 12490,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/dashboard/phpinfo.php",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/index.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/tabs.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/soon.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/sport.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/sliders.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/register1.php",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/price-table.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/modules.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/login.php",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/index-2.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/index.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/icon-box.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/gallery.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/full-width.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/form.css",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/feature-icons.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/faq.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/db1.php",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/contact.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/blog-post.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/buttons.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/blog.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/blockquote.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/alerts.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/404.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/accordion.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/about.html",
+		"/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5-Template/tagline-boxes.html",
+		"/C/Users/Muhammed/Desktop/chrome.sublime"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/404.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/accordion.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/alerts.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/blockquote.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/blog.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/blog-post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/buttons.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/db1.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/faq.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/feature-icons.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/form.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/full-width.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/gallery.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/icon-box.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/index-2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18676,
+								18676
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/index-2.sublime-workspace",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/modules.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/price-table.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/register1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/sliders.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12820,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/soon.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/sport.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/tabs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/C/Users/Muhammed/Desktop/Muhammed Mustafa AY_030720078_Code/Sport-News-Responsive-HTML5/tagline-boxes.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "font-awesome.min.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
